@@ -1,6 +1,6 @@
-- 👋 Hi, I’m pishvaie@sharif.edu
+- 👋 Hi, I’m pishvaie@sharif.edu, a Chem. Eng. Professor at Sharif University of Technology.
 - 👀 I’m interested in code development using COM Technology
-- 🌱 I’m currently learning Modern and Optimal Control at faculty
+- 🌱 I’m currently teaching Modern and Optimal Control at faculty
 - 📫 How to reach me: che.sharif.ir/~pishvaie
 
 <!---
